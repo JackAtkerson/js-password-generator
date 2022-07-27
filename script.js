@@ -1,5 +1,10 @@
 // Assignment code here
-
+function generatePassword() {
+  var specialCharacters = [' ', '!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '_', '^', '{', '|', '}', '~'];
+  var numericCharacters = [ '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+  var uppercaseCharacters = [];
+  var lowercaseCharacters = [];
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
