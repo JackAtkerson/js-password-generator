@@ -3,6 +3,8 @@
 ## Description
 A password generator that creates a random password according to user criteria.
 
+![Password Generator homepage](./assets/images/pw_generator_demo.jpeg)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
